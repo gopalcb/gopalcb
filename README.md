@@ -48,6 +48,7 @@ Before going deep on agent systems, I worked on machine-learning projects around
 If you’re working on agent platforms, practical AI, API tooling, or cloud systems, I’d be glad to compare notes.
 
 - Explore my work at [gopalcb.github.io](https://gopalcb.github.io)
+- [Send me a message](https://gopalcb.github.io/contact/)
 - Reach me at [gopal.cb@live.com](mailto:gopal.cb@live.com)
 
 <p align="center">
