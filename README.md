@@ -28,4 +28,4 @@ I enjoy turning ambitious, slightly messy ideas into systems that feel clear, de
 
 ---
 
-[Contact](https://gopalcb.github.io/contact/)
+[CONTACT](https://gopalcb.github.io/contact/)
