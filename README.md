@@ -9,8 +9,6 @@ I am a self-taught fullstack software engineer with experience building reactive
 
 I have a solid software engineering foundation with a deep understanding of OOP design patterns, client-server model, BFF layer, container networking, IAM, databases, agent orchestration and full lifecycle of HTTP request and other core protocols. By following engineering best practices, I can produce secure backend, data, and frontend applications and consistently deliver high-quality client-facing and internal systems.
 
-In my personal life, I am a husband and the elder of two siblings, which made me naturally caring and a mentor.
-
 ## My Contribution Summary
 
 - Node.js express backend-for-frontend server for handling downstream service integration and OAuth2 authentication with PKCE, state validation and Redis token and session storage to prevent XSS, CSRF and authorization code interception attacks. Secure frontend routing with auth-guard.
