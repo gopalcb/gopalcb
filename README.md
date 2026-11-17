@@ -31,4 +31,4 @@ I have a solid software engineering foundation with a deep understanding of OOP 
 
 ---
 
-[Email](mailto:gopalcbala@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gopal-c-bala/)
+<a href="mailto:gopalcbala@gmail.com"><img src="https://d3bgmkj8219hsy.cloudfront.net/api/gh-resource?icon=email" width="18" height="18" alt="" /> Email</a> | <a href="https://www.linkedin.com/in/gopal-c-bala/"><img src="https://d3bgmkj8219hsy.cloudfront.net/api/gh-resource?icon=linkedin" width="18" height="18" alt="" /> LinkedIn</a>
