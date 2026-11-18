@@ -5,9 +5,7 @@
 
 ---
 
-I am a self-taught fullstack software engineer with 7+ years of experience building reactive event-driven production systems. I am a voracious reader and learner. I bring a strong work ethic as an independent contributor and I value teamwork and collaboration. 
-
-I have a solid software engineering foundation with a deep understanding of OOP design patterns, client-server model, backend-for-frontend, container networking, IAM, databases, agent orchestration and full lifecycle of HTTP request and other core protocols. By following engineering best practices, I can produce secure backend, frontend and data applications and consistently deliver high-quality client-facing and internal systems.
+Fullstack software engineer with 7+ years of experience designing, developing and deploying production systems. My core stack includes TypeScript, Python, FastAPI, Node.js and NestJS along with architecting and provisioning AWS infra with Terraform. Deep understanding and hands-on experience with OOP design patterns, client-server model, backend-for-frontend, container networking, IAM, databases and RAG systems.
 
 ## My Contribution Summary
 
