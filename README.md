@@ -16,7 +16,7 @@ Fullstack software engineer with 7+ years of experience designing, developing an
 - AWS infrastructure design and provisioning through Terraform and GitHub workflow.
 - Observability, tracing and zero downtime blue-green Docker containerized deployment.
 - LangGraph LLM agent workflow patterns: AWS Lambda function as agent runtime, prompt engineering and chaining, intent-routing, tool calling, reflection, shipping agent as container.
-- Other frameworks and tools: Celery, Pydantic, NumPy, Scikit-learn, PyTorch, Pillow, OpenCV.
+- Other frameworks and tools: Celery, Pydantic, NumPy, Scikit-learn, PyTorch
 
 ## What I’m building
 
