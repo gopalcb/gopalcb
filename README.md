@@ -5,18 +5,13 @@
 
 ---
 
-Fullstack software engineer with 7+ years of experience designing, developing and deploying production systems. My core stack includes TypeScript, Python, FastAPI, Node.js and NestJS along with architecting and provisioning AWS infra with Terraform. Deep understanding and hands-on experience with OOP design patterns, client-server model, backend-for-frontend, container networking, IAM, databases and RAG systems.
+## Fullstack system engineering
 
-## My Contribution Summary
-
-- TypeScript/Node.js express backend-for-frontend (BFF) server for handling downstream service integration and OAuth2 Auth0 authentication with PKCE, state validation and Redis token and session storage.
-- NestJS/FastAPI based REST services with idempotent endpoints, strict HTTP semantics and pagination across PostgreSQL and AWS DynamoDB databases.
-- Modeling normalized RDBMS schemas, DynamoDB single-table design, Access-pattern-driven modeling, Composite primary keys and Denormalization.
-- Python, PySpark, Haystack, Sentence-transformer, OpenSearch powered data applications/pipelines (silver-gold) including embeddings, retrieval systems running on EKS and AWS Glue.
-- AWS infrastructure design and provisioning through Terraform and GitHub workflow.
-- Observability, tracing and zero downtime blue-green Docker containerized deployment.
-- LangGraph LLM agent workflow patterns: AWS Lambda function as agent runtime, prompt engineering and chaining, intent-routing, tool calling, reflection, shipping agent as container.
-- Other frameworks and tools: Celery, Pydantic, NumPy, Scikit-learn, PyTorch
+- Python and TypeScript based APIs, web applications and data-pipelines development
+- Secure application access and SSO using OAuth2 openid-connect
+- AWS based event-driven systems and infrastructure design and provisioning with Terraform
+- Knowledge base, retrieval system and agentic workflow development
+- Flask, Node.js, RDS, NoSQL, PySpark, LangGraph, Haystack, OpenSearch, EKS, Serverless
 
 ## What I’m building
 
