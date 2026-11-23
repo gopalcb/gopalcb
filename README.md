@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I’m Gopal 👋</h1>
-<p align="center">
-  Explore some of my documentation: <a href="https://gopalcb.github.io" target="_blank">https://gopalcbala.me</a>
-</p>
 
 ---
 
