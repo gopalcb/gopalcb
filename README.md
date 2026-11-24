@@ -1,14 +1,18 @@
 <h1 align="center">Hi, I’m Gopal 👋</h1>
-
----
+<p align="center">
+  <a href="https://gopalcb.github.io/" target="_blank">https://gopalcb.github.io/</a>
+</p>
 
 ## Fullstack system engineering
 
-- Python and TypeScript based APIs, web applications and data-pipelines development
-- Secure application access and SSO using OAuth2 openid-connect
-- AWS based event-driven systems and infrastructure design and provisioning with Terraform
-- Knowledge base, retrieval system and agentic workflow development
-- Flask, Node.js, RDS, NoSQL, PySpark, LangGraph, Haystack, OpenSearch, EKS, Serverless
+- Python and TypeScript (OOP + functional) based REST API, web-applications and data-pipelines development
+- Secure application access, user identity/SSO using OAuth2 openid-connect
+- RAG systems (embedding, retrieval systems, eval), LLM applications and agent workflow automation
+- AWS and Kafka based event-driven systems and infrastructure design
+- Automating infrastructure provisioning using Terraform and GitHub CICD workflows
+- FastAPI, Flask, Node.js, PostgreSQL, DynamoDB, Redis, EKS, Docker, OpenTelemetry, Splunk
+- PySpark, Haystack, FastMCP, LangGraph, OpenSearch, ChromaDB, Agent design patterns and SDKs
+- Unit testing and evals- PyTest and Jest, DeepEval, Ragas LLM-as-a-Judge RAG assessment
 
 ## What I’m building
 
